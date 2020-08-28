@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\tangxxbo\AdoNetPoolContact\AdoNetPoolContact\AdoNetPoolContact\bin\Debug\AdoNetPoolContact.exe.config
+C:\Users\user\source\repos\tangxxbo\AdoNetPoolContact\AdoNetPoolContact\AdoNetPoolContact\bin\Debug\AdoNetPoolContact.exe
+C:\Users\user\source\repos\tangxxbo\AdoNetPoolContact\AdoNetPoolContact\AdoNetPoolContact\bin\Debug\AdoNetPoolContact.pdb
+C:\Users\user\source\repos\tangxxbo\AdoNetPoolContact\AdoNetPoolContact\AdoNetPoolContact\obj\Debug\AdoNetPoolContact.csprojAssemblyReference.cache
+C:\Users\user\source\repos\tangxxbo\AdoNetPoolContact\AdoNetPoolContact\AdoNetPoolContact\obj\Debug\AdoNetPoolContact.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tangxxbo\AdoNetPoolContact\AdoNetPoolContact\AdoNetPoolContact\obj\Debug\AdoNetPoolContact.exe
+C:\Users\user\source\repos\tangxxbo\AdoNetPoolContact\AdoNetPoolContact\AdoNetPoolContact\obj\Debug\AdoNetPoolContact.pdb
